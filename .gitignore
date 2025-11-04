@@ -1,0 +1,7 @@
+# Ignore large model and dataset files
+*.pkl
+*.csv
+*.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
